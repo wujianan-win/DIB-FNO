@@ -1,0 +1,31 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dib-fno"
+version = "1.0.0"
+description = "Dynamic Information Bottleneck Fourier Neural Operator for global weather forecasting"
+readme = "README.md"
+requires-python = ">=3.10"
+license = "Apache-2.0"
+dependencies = [
+  "numpy>=1.26,<3",
+  "torch>=2.2",
+  "zarr>=3.0,<4",
+  "matplotlib>=3.8,<4",
+  "tqdm>=4.66,<5",
+]
+
+[project.optional-dependencies]
+dev = ["pytest>=8,<10"]
+
+[project.urls]
+Repository = "https://github.com/haohandongming-ship-it/DIB_FNO"
+
+[tool.setuptools.packages.find]
+include = ["dibfno*"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+addopts = "-q"

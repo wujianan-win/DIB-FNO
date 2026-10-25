@@ -1,0 +1,7 @@
+﻿case,selection_rule,rank_ascending,ranks_total,initialization,lead_hours,Z500_DIB_three_seed_mean_case_RMSE_gpm,Z500_Fixed_three_seed_mean_case_RMSE_gpm,Z500_difference_DIB_minus_Fixed_gpm
+DIB most favourable,rank of three-seed mean per-case Z500 240h RMSE(DIB)-RMSE(Fixed),1,5844,2022-01-20T06,24,56.686247194299824,67.43555426437331,-10.749307070073485
+DIB most favourable,rank of three-seed mean per-case Z500 240h RMSE(DIB)-RMSE(Fixed),1,5844,2022-01-20T06,240,141.23775687528365,249.11423691267728,-107.87648003739363
+Median,rank of three-seed mean per-case Z500 240h RMSE(DIB)-RMSE(Fixed),2923,5844,2021-07-16T12,24,37.39981124012019,44.82735017976436,-7.4275389396441724
+Median,rank of three-seed mean per-case Z500 240h RMSE(DIB)-RMSE(Fixed),2923,5844,2021-07-16T12,240,124.57803682275863,147.54260981585136,-22.96457299309273
+DIB least favourable,rank of three-seed mean per-case Z500 240h RMSE(DIB)-RMSE(Fixed),5844,5844,2020-03-10T18,24,46.38593075737438,50.954990914193765,-4.569060156819383
+DIB least favourable,rank of three-seed mean per-case Z500 240h RMSE(DIB)-RMSE(Fixed),5844,5844,2020-03-10T18,240,156.82106437928778,124.22881605753271,32.592248321755065

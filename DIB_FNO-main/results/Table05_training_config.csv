@@ -1,0 +1,10 @@
+﻿model,seed,parameters,best_epoch,epochs_completed,stop_reason,optimizer,learning_rate,weight_decay,train_samples_per_epoch,val_samples_per_epoch,checkpoint_sha256
+DIB-FNO,0,3106,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,d589a29afbbfffa72ae43baefb1c679d3c62c0c62bbb001b40d5025c4babfb66
+DIB-FNO,1,3106,14,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,d1affe14ceb3cd076274af11cda2286026a8024d8cef2c573c0dd7f785d7a1ca
+DIB-FNO,2,3106,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,692b480c866bb6d8b90e8a390d0d1dc5bbf56f5eb0ae2ea7f85316d12ebae1e7
+Static gate FNO,0,3173,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,507d2251df4d706937aa616e4985fdfc02343c52cd04e3baeb01df88660f39f8
+Static gate FNO,1,3173,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,6b5eb330308a66716d49de8ab93f16843c99bc922714fa14655c256398778a94
+Static gate FNO,2,3173,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,20ecc92205f057771f4de4d584c48c2b6296b7fd0593586446b672ff4643e204
+Fixed FNO,0,1896,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,b60b83a3548c87a8b973f83fab3ec2ebba30c1ae1bb339921a3eda5b14fc49ea
+Fixed FNO,1,1896,15,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,6be707a35a2fd66e00366842cf5251ca301ea8aec0235cf225a4ef9c53ccc3cf
+Fixed FNO,2,1896,14,15,reached_max_epochs,AdamW,0.0003,0.0001,83275,4383,4d82e9a8396a26d12106a11b44e2f1f9cf2349adfb2788ca6ba688bec03c2144
